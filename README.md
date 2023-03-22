@@ -30,3 +30,4 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mertdluffy&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertdluffy&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700" height="200">
