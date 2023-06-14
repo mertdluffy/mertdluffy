@@ -23,6 +23,4 @@
   <img alt="premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </p>
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mertdluffy&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertdluffy&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700" height="200">
