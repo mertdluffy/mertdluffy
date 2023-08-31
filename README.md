@@ -1,5 +1,5 @@
 ### Hi you all 👋
-#### I am a computer engineering student at Ankara University, and I am in my final year. I currently work as a PHP Laravel developer at Pinet Bilişim. I also develop in Vue.js and bootstrap.
+#### I currently work as a PHP Laravel developer at Pinet Bilişim. I also develop in Vue.js and bootstrap.
 
 - 📫 How to reach me:
 <p><a href="https://www.linkedin.com/in/mertdemirbag/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,4 +18,3 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertdluffy&layout=compact&theme=codeSTACKr" alt="GitHub Stats for AjayYadavAi" width="700" height="200">
-315c8c6c-eed7-4694-85c4-716962922929
