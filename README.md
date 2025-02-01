@@ -1,5 +1,4 @@
 ### Hi you all 👋
-#### I currently work as a PHP Laravel developer at Pinet Bilişim. I also develop in Vue.js and bootstrap.
 
 - 📫 How to reach me:
 <p><a href="https://www.linkedin.com/in/mertdemirbag/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
